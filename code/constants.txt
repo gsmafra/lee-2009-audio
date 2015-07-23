@@ -1,0 +1,16 @@
+
+
+BaseDir ~/vision/tisc
+SparsenetImages /afs/cs/group/brain/scratch/roger/data/IMAGES.mat
+SparsenetImagesRaw /afs/cs/group/brain/scratch/roger/data/IMAGES_RAW.mat
+VanHaterenImages /afs/cs/group/brain/scratch/roger/data/IMAGES_VANHATEREN.mat
+SparsenetBases16 /afs/cs/group/brain/scratch/roger/data/bases/whitened_16.mat
+SparsenetBases32 /afs/cs/group/brain/scratch/roger/data/bases/whitened_32.mat
+TimitBase /afs/cs/group/brain/scratch/roger/data/timit2
+
+TimitSampleRate 16000
+TimitWindowTime 0.020
+TimitHopTime 0.0100
+TimitFreqLow 300
+TimitFreqHigh 8000
+SpectrogramPadding 20
