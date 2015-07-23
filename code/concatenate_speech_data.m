@@ -1,3 +1,5 @@
+% octave
+
 function [Pconc startframe_list] = concatenate_speech_data(Pall, idx)
 
 count = 0;
