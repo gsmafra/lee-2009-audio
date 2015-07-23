@@ -1,3 +1,5 @@
+% octave
+
 function [P padding] = get_spectrogram_orig(Y, padding, fs)
 
 if ~exist('fs', 'var')
