@@ -33,11 +33,11 @@ Original README:
 >If you find this code useful, please cite our paper.
 >
 >@InCollection{Lee+etal09:convDBNAudio,
->	title = "Unsupervised Feature Learning for Audio Classification using Convolutional Deep Belief Networks",
->	author = "Honglak Lee and Yan Largman and Peter Pham and Andrew~Y. Ng",
->	booktitle = "Advances in Neural Information Processing Systems 22",
->	pages = "1096--1104",
->	year = "2009"
->}
+	title = "Unsupervised Feature Learning for Audio Classification using Convolutional Deep Belief Networks",
+	author = "Honglak Lee and Yan Largman and Peter Pham and Andrew~Y. Ng",
+	booktitle = "Advances in Neural Information Processing Systems 22",
+	pages = "1096--1104",
+	year = "2009"
+}
 
 
