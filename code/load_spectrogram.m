@@ -7,7 +7,7 @@ end
 fname_wav = [fname_prefix '.wav'];
 
 % read wav file
-% [y,fs,ffx]=readsph(fname_wav);
+#[y,fs,ffx]=readsph(fname_wav);
 [y, fs, nbits] = wavread(fname_wav);
 
 % convert to spectrogram
